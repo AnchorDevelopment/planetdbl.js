@@ -1,0 +1,28 @@
+{
+  "name": "planetdbl.js",
+  "version": "0.0.3",
+  "description": "A library for interacting with Planetdbl.xyz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celestialPluse/planetdbl.js.git"
+  },
+  "keywords": [
+    "planetdbl.js",
+    "planetdbl.xyz",
+    "api-wrapper",
+    "discordbotlisting"
+  ],
+  "author": "Celestialpluse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celestialPluse/planetdbl.js/issues"
+  },
+  "homepage": "https://github.com/celestialPluse/planetdbl.js#readme",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
